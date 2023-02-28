@@ -1,0 +1,53 @@
+2021-11-06 22:15:43.363625: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 22:15:51.251214: I tensorflow/core/platform/cpu_feature_guard.cc:145] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX
+2021-11-06 22:15:51.297589: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2245815000 Hz
+2021-11-06 22:15:51.299483: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x558b265db5e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-11-06 22:15:51.299508: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-11-06 22:15:51.341469: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcuda.so.1
+2021-11-06 22:15:51.416396: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1666] Found device 0 with properties: 
+name: A100-SXM4-40GB major: 8 minor: 0 memoryClockRate(GHz): 1.41
+pciBusID: 0000:0f:00.0
+2021-11-06 22:15:51.416495: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 22:15:51.716477: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2021-11-06 22:15:51.754952: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2021-11-06 22:15:51.908196: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2021-11-06 22:15:51.973088: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2021-11-06 22:15:52.100005: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2021-11-06 22:15:52.101280: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2021-11-06 22:15:52.105798: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1794] Adding visible gpu devices: 0
+2021-11-06 22:15:52.105838: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 22:16:02.736619: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2021-11-06 22:16:02.738600: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2021-11-06 22:16:02.738813: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2021-11-06 22:16:02.749466: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/device:GPU:0 with 38195 MB memory) -> physical GPU (device: 0, name: A100-SXM4-40GB, pci bus id: 0000:0f:00.0, compute capability: 8.0)
+2021-11-06 22:16:02.761886: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x558b39f9cc50 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2021-11-06 22:16:02.761907: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): A100-SXM4-40GB, Compute Capability 8.0
+2021-11-06 22:16:11.233306: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1666] Found device 0 with properties: 
+name: A100-SXM4-40GB major: 8 minor: 0 memoryClockRate(GHz): 1.41
+pciBusID: 0000:0f:00.0
+2021-11-06 22:16:11.233394: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 22:16:11.233424: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2021-11-06 22:16:11.233439: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2021-11-06 22:16:11.233452: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2021-11-06 22:16:11.248698: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2021-11-06 22:16:11.248714: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2021-11-06 22:16:11.248728: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2021-11-06 22:16:11.253002: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1794] Adding visible gpu devices: 0
+2021-11-06 22:16:11.258776: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1666] Found device 0 with properties: 
+name: A100-SXM4-40GB major: 8 minor: 0 memoryClockRate(GHz): 1.41
+pciBusID: 0000:0f:00.0
+2021-11-06 22:16:11.258802: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 22:16:11.258817: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2021-11-06 22:16:11.258829: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2021-11-06 22:16:11.258841: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2021-11-06 22:16:11.258853: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2021-11-06 22:16:11.258865: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2021-11-06 22:16:11.258877: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2021-11-06 22:16:11.263070: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1794] Adding visible gpu devices: 0
+2021-11-06 22:16:11.263109: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2021-11-06 22:16:11.263116: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2021-11-06 22:16:11.263123: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2021-11-06 22:16:11.267390: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 38195 MB memory) -> physical GPU (device: 0, name: A100-SXM4-40GB, pci bus id: 0000:0f:00.0, compute capability: 8.0)
+2021-11-06 22:16:12.285075: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2021-11-06 22:16:25.254634: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+slurmstepd: error: *** JOB 430196 ON exa02 CANCELLED AT 2021-11-08T12:22:04 ***

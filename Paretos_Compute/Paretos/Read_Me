@@ -1,0 +1,2 @@
+evparetos_conv: (case convolutional neural networks) the pareto obtained in each iteration throught 30 execution + the pseudo-optimal praeto obtained from the population of pareto fronts of 30 executions
+evparetos_dense: (case fully-connected neural networks) the pareto obtained in each iteration throught 30 execution + the pseudo-optimal praeto obtained from the population of pareto fronts of 30 executions

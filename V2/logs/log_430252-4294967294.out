@@ -1,0 +1,9 @@
+Sun  7 Nov 19:59:59 CET 2021
+bl11
+[2021-11-07 19:59:59,246] launcher  INFO    SCOOP 0.7 1.1 on linux using Python 3.8.8 (default, Apr 13 2021, 19:58:26) [GCC 7.3.0], API: 1013
+[2021-11-07 19:59:59,246] launcher  INFO    Detected SLURM environment.
+[2021-11-07 19:59:59,246] launcher  INFO    Deploying 100 worker(s) over 1 host(s).
+[2021-11-07 19:59:59,246] launcher  INFO    Worker distribution: 
+[2021-11-07 19:59:59,246] launcher  INFO       bl11:	99 + origin
+[2021-11-07 20:01:06,953] launcher  (127.0.0.1:45377) INFO    Root process is done.
+[2021-11-07 20:01:06,955] launcher  (127.0.0.1:45377) INFO    Finished cleaning spawned subprocesses.
