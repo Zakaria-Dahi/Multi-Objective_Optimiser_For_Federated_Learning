@@ -1,6 +1,6 @@
 # Quick Description
 
-**Programmers :shipit:**: [José Angel Morell](https://github.com/jamorell?tab=repositories) and Zakaria Abdelmoiz DAHI from the University of Malaga, Spain. 
+**Programmers :shipit:**: [José Angel Morell](https://github.com/jamorell?tab=repositories) and Zakaria Abdelmoiz DAHI. 
 
 **About:** This repositiory implements a non-dominated sorting genetic algorithm devised in [1] for optimising communication overhed in federated learning.
 
